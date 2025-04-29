@@ -6,4 +6,4 @@ A Flutter GestureDetector but with mouse hover pointer effect . 一个 Flutter �
 
 ## Demo 动画演示
 
-![test](README.assets/test.gif)
+![test](./README.assets/test.gif)
